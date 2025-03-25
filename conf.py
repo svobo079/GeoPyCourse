@@ -32,6 +32,7 @@ show_authors = True
 nitpicky = True
 show_warning_types = True
 
+pip install sphinx-rtd-theme
 html_theme = 'sphinx_rtd_theme'
 html_theme_path = ['_themes']
 html_css_files = [
