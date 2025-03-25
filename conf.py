@@ -32,6 +32,8 @@ show_authors = True
 nitpicky = True
 show_warning_types = True
 
+master_doc = "index"
+
 
 html_theme = 'alabaster'
 html_theme_path = ['_themes']
