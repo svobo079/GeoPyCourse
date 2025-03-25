@@ -32,7 +32,7 @@ show_authors = True
 nitpicky = True
 show_warning_types = True
 
-html_theme = 'sphinx13'
+html_theme = 'sphinx_rtd_theme'
 html_theme_path = ['_themes']
 html_css_files = [
     # 'basic.css',  # included through inheritance from the basic theme
