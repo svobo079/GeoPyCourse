@@ -32,7 +32,7 @@ show_authors = True
 nitpicky = True
 show_warning_types = True
 
-master_doc = "index"
+master_doc = 'index'
 
 
 html_theme = 'alabaster'
